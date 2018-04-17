@@ -1,9 +1,0 @@
-﻿  Tin.cpp
-c:\users\hcho\desktop\vs2012\实习作业\mapsystem\spatial analysis\spatial analysis\tin.cpp(184): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-c:\users\hcho\desktop\vs2012\实习作业\mapsystem\spatial analysis\spatial analysis\tin.cpp(185): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-c:\users\hcho\desktop\vs2012\实习作业\mapsystem\spatial analysis\spatial analysis\tin.cpp(186): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-c:\users\hcho\desktop\vs2012\实习作业\mapsystem\spatial analysis\spatial analysis\tin.cpp(187): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-c:\users\hcho\desktop\vs2012\实习作业\mapsystem\spatial analysis\spatial analysis\tin.cpp(188): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-c:\users\hcho\desktop\vs2012\实习作业\mapsystem\spatial analysis\spatial analysis\tin.cpp(189): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-c:\users\hcho\desktop\vs2012\实习作业\mapsystem\spatial analysis\spatial analysis\tin.cpp(287): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-  spatial analysis.vcxproj -> C:\Users\HCHO\Desktop\VS2012\实习作业\MapSystem\spatial analysis\Debug\spatial analysis.exe
