@@ -16,7 +16,7 @@
 #define new DEBUG_NEW
 #endif
 #include "MainFrm.h"
-
+#include <string>
 
 // CspatialanalysisView
 

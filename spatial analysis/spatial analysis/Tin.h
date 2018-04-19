@@ -36,6 +36,7 @@ private:
 	DOUBLEPOINT3DARRAY m_triPointArray;//存储坐标点xyz，不用
 	TRIARRAY m_triArray; //用于绘制的三角形三个点点号
 
+	POINTARRAY m_triCenterPoint;//存储三角形外接圆圆心
 	INTARRAY* m_pNum;//存储离散点周围三角形编号
 
 	POINTARRAY *Thiessen;//存储泰森多边形的顶点，即三角形圆心
